@@ -1,3 +1,3 @@
-Database.rar dosyası bu not defterinin bulunduğu dizine çıkartılmalıdır.
+Database.rar has to be extracted into same directory as this file. 
 
 https://drive.google.com/file/d/1UeVaDCjxHLQtvvIapb8DtpnGpO1z8r_m/view?usp=sharing
